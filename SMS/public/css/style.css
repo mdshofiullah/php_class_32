@@ -18,3 +18,12 @@
 .p-size{
     font-size: 13px;
 }
+.notice-section{
+    background-image: url("../img/c2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-blend-mode: lighten;
+}
+

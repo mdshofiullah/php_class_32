@@ -111,6 +111,16 @@
       <path value="$PROJECT_DIR$/SMS/vendor/nette/utils" />
       <path value="$PROJECT_DIR$/SMS/vendor/voku/portable-ascii" />
       <path value="$PROJECT_DIR$/SMS/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/SMS/vendor/mobiledetect/mobiledetectlib" />
+      <path value="$PROJECT_DIR$/SMS/vendor/bacon/bacon-qr-code" />
+      <path value="$PROJECT_DIR$/SMS/vendor/dasprid/enum" />
+      <path value="$PROJECT_DIR$/SMS/vendor/paragonie/constant_time_encoding" />
+      <path value="$PROJECT_DIR$/SMS/vendor/jenssegers/agent" />
+      <path value="$PROJECT_DIR$/SMS/vendor/pragmarx/google2fa" />
+      <path value="$PROJECT_DIR$/SMS/vendor/jaybizzle/crawler-detect" />
+      <path value="$PROJECT_DIR$/SMS/vendor/laravel/fortify" />
+      <path value="$PROJECT_DIR$/SMS/vendor/laravel/jetstream" />
+      <path value="$PROJECT_DIR$/SMS/vendor/livewire/livewire" />
     </include_path>
   </component>
   <component name="PhpUnit">

@@ -10,4 +10,8 @@ class WebController extends Controller
     {
         return view('website.home.home');
     }
+    public function detail()
+    {
+        return view('website.course.detail');
+    }
 }
